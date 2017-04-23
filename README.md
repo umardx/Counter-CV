@@ -14,3 +14,4 @@ $ make
 * Run Main:
 ```
 $ ./start_counter.sh
+
