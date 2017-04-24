@@ -1,5 +1,4 @@
 dataset/
-vs2013/Release/
 _tmp/
 build_*/
 *.exe
@@ -17,5 +16,5 @@ CMakeFiles/
 Makefile
 cmake-build-debug/
 cmake_install.cmake
-simple_vehicle_counting
+main_conter
 pbcvt.cbp
